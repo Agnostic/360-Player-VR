@@ -11,4 +11,4 @@ VR enabled browser (MozVR recommended):
 
 It works with Oculus Rift/Google Cardboard.
 
-Demo video: "The Ring VR" by [Capitaine Hishiro](https://www.youtube.com/channel/UCdqgHDQX9EbnKqAcGme6fOA)
+Demo video: "3:00AM" by [DimensionGate Inc](https://www.youtube.com/channel/UCR6SZQrhwlyL61e8ZcPNuQQ)
